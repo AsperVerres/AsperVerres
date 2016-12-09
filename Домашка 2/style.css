@@ -1,0 +1,30 @@
+html, body{
+	margin: 0;
+}
+
+body{
+	background-image: url('9b8906ceca36257f150f4e28aa74fdbd.jpg');
+	background-repeat: repeat-y;
+	background-position-x: 107%;
+}
+
+*{
+	font-family: 'PT Sans', sans-serif;
+	color: #222;
+}
+
+h1{
+	margin-bottom: 0;
+}
+
+.content{
+	width: 800px;
+	margin: 0 auto;
+}
+
+.k1{
+	width: 200px;
+}
+.k2, .k3{
+width: 200px;
+}
